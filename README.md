@@ -6,7 +6,7 @@ Cette application web permet de générer et de décoder des QR codes. Les utili
 
 1. Clonez le dépôt GitHub :
    ```bash
-   git clone https://github.com/votre-utilisateur/votre-depot.git
+   git clone https://github.com/Ihebheni/QRcodeWithPython.git
    cd votre-depot
 
 2. Créez et activez un environnement virtuel :
